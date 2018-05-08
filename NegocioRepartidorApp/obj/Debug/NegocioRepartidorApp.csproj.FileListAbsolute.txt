@@ -1,9 +1,0 @@
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.UI.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Core.Utils.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Media.Compat.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Fragment.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Vector.Drawable.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
-/Users/macos/Projects/NegocioRepartidorApp/NegocioRepartidorApp/obj/Debug/XbdMerge/Xamarin.Android.Support.v7.AppCompat.dll.stamp

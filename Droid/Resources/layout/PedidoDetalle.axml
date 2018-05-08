@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvEstado"
+        android:text="Estado:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvDescripcion"
+        android:text="Descripcion:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvFecha"
+        android:text="Fecha:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTelefono"
+        android:text="Telefono:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLatitud"
+        android:text="Latitud:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLongitud"
+        android:text="Longitud:"
+        android:textSize="20sp"
+        android:textColor="#ffffffff" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/white"
+        android:id="@+id/view1" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAvanzar"
+        android:text="Preparar pedido"
+        android:textColor="#ffdde14b" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEntregar"
+        android:text="Entregar pedido"
+        android:textColor="#ff6ddde3" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCompletar"
+        android:text="Completar pedido"
+        android:textColor="#ff80ed7a" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCancelar"
+        android:text="Cancelar pedido"
+        android:textColor="#ffff7e7e" />
+</LinearLayout>
